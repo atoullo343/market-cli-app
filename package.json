@@ -1,0 +1,16 @@
+{
+  "name": "hello-cli",
+  "version": "1.0.0",
+  "description": "cli app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "market",
+    "vanilla nodeJs"
+  ],
+  "author": "Atoullo",
+  "license": "ISC"
+}
